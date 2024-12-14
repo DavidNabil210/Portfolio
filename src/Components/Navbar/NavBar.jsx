@@ -19,7 +19,7 @@ function NavBar() {
                 <BsFillMoonStarsFill className='cursor-pointer text-2xl' />
               </li>
               <li>
-                <a href="#" className='bg-gradient-to-r from-bg-cyan-500 to-teal-500 px-2 py-4 text-white'>Resume</a>
+                <a href="#" className='bg-gradient-to-r from-bg-cyan-500 to-teal-500 px-3 py-4 text-white'>Resume</a>
               </li>
 
             </ul>
