@@ -11,7 +11,7 @@ function NavBar() {
 
     <>
       <main className='bg-white px-10'>
-        <section className="bg-blue-900 ">
+        <section className="bg-blue-800 ">
           <nav className='py-10 mb-12 flex justify-between'>
             <h1 className='text-xl font-burtons'>hello</h1>
             <ul className='flex items-center'>
