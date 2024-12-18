@@ -26,7 +26,7 @@ function NavBar() {
           </nav>
           <div className='text-center p-10'>
             <h2 className='text-5xl py-2 text-teal-600 font-medium'>developer</h2>
-            <h3 className='text-2xl py-2'>dev</h3>
+            <h3 className='text-2xl py-2'>dev david</h3>
             <p className='text-md py-5 leading-8 text-gray-800'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
               Voluptatem saepe earum ducimus tempora quisquam eos tenetur similique corrupti maiores dolorum?</p>
           </div>
