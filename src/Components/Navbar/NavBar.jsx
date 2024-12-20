@@ -93,6 +93,17 @@ function NavBar() {
             </div>
           </div>
         </section>
+
+        {/* section three */}
+
+        <section>
+          <div>
+            <h3 className="text-3xl py-1">portfolio</h3>
+            <p className="text-teal-500">Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, fuga?</p>
+       
+           
+          </div>
+        </section>
       </main>
     </>
   );
